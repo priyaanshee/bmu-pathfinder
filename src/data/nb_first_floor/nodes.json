@@ -1,0 +1,58 @@
+[
+  {
+    "id": "NB103",
+    "label": "NB103 - Computer Lab",
+    "type": "room",
+    "x": 200,
+    "y": 250
+  },
+  {
+    "id": "NB104",
+    "label": "NB104",
+    "type": "room",
+    "x": 500,
+    "y": 400
+  },
+  {
+    "id": "NB105",
+    "label": "NB105 - Seminar Hall",
+    "type": "room",
+    "x": 800,
+    "y": 250
+  },
+  {
+    "id": "L1",
+    "label": "Lift 1",
+    "type": "lift",
+    "x": 450,
+    "y": 260
+  },
+  {
+    "id": "L2",
+    "label": "Lift 2",
+    "type": "lift",
+    "x": 700,
+    "y": 260
+  },
+  {
+    "id": "S_MAIN",
+    "label": "Main Staircase",
+    "type": "staircase",
+    "x": 450,
+    "y": 150
+  },
+  {
+    "id": "S_LEFT",
+    "label": "Emergency Staircase (Left)",
+    "type": "emergency_staircase",
+    "x": 120,
+    "y": 150
+  },
+  {
+    "id": "S_RIGHT",
+    "label": "Emergency Staircase (Right)",
+    "type": "emergency_staircase",
+    "x": 880,
+    "y": 150
+  }
+]

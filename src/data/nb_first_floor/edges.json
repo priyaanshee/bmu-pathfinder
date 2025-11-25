@@ -1,0 +1,12 @@
+[
+  ["S_LEFT", "NB103"],
+  ["NB103", "L1"],
+  ["L1", "NB104"],
+  ["NB104", "L2"],
+  ["L2", "NB105"],
+  ["S_MAIN", "L1"],
+  ["S_MAIN", "L2"],
+  ["S_LEFT", "S_MAIN"],
+  ["S_RIGHT", "L2"],
+  ["S_RIGHT", "S_MAIN"]
+]

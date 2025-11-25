@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# bmu-pathfinder
+BMU PathFinder is a campus navigation system that helps students and visitors find the shortest path between locations inside BMU using Dijkstra’s Algorithm. It provides an interactive floor-by-floor map with visual path highlighting and a clean React-based UI for smooth indoor navigation.
+>>>>>>> 8b65239dbde935746fa593be5fc8ac6e2cb6cd7c

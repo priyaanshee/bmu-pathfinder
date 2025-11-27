@@ -1,0 +1,74 @@
+[
+  { "id": "1", "label": "Cabin 1", "type": "cabin", "x": 80, "y": 60 },
+  { "id": "2", "label": "Cabin 2", "type": "cabin", "x": 130, "y": 60 },
+  { "id": "3", "label": "Cabin 3", "type": "cabin", "x": 180, "y": 60 },
+  { "id": "4", "label": "Cabin 4", "type": "cabin", "x": 230, "y": 60 },
+  { "id": "5", "label": "Cabin 5", "type": "cabin", "x": 280, "y": 60 },
+  { "id": "6", "label": "Cabin 6", "type": "cabin", "x": 330, "y": 60 },
+  { "id": "7", "label": "Cabin 7", "type": "cabin", "x": 380, "y": 60 },
+
+  { "id": "8", "label": "Cabin 8", "type": "cabin", "x": 80, "y": 110 },
+  { "id": "9", "label": "Cabin 9", "type": "cabin", "x": 130, "y": 110 },
+  { "id": "10", "label": "Cabin 10", "type": "cabin", "x": 180, "y": 110 },
+  { "id": "11", "label": "Cabin 11", "type": "cabin", "x": 230, "y": 110 },
+  { "id": "12", "label": "Cabin 12", "type": "cabin", "x": 280, "y": 110 },
+  { "id": "13", "label": "Cabin 13", "type": "cabin", "x": 330, "y": 110 },
+  { "id": "14", "label": "Cabin 14", "type": "cabin", "x": 380, "y": 110 },
+
+  { "id": "15", "label": "Cabin 15", "type": "cabin", "x": 620, "y": 60 },
+  { "id": "16", "label": "Cabin 16", "type": "cabin", "x": 670, "y": 60 },
+  { "id": "17", "label": "Cabin 17", "type": "cabin", "x": 720, "y": 60 },
+  { "id": "18", "label": "Cabin 18", "type": "cabin", "x": 770, "y": 60 },
+  { "id": "19", "label": "Cabin 19", "type": "cabin", "x": 820, "y": 60 },
+  { "id": "20", "label": "Cabin 20", "type": "cabin", "x": 870, "y": 60 },
+  { "id": "21", "label": "Cabin 21", "type": "cabin", "x": 920, "y": 60 },
+
+  { "id": "22", "label": "Cabin 22", "type": "cabin", "x": 620, "y": 110 },
+  { "id": "23", "label": "Cabin 23", "type": "cabin", "x": 670, "y": 110 },
+  { "id": "24", "label": "Cabin 24", "type": "cabin", "x": 720, "y": 110 },
+  { "id": "25", "label": "Cabin 25", "type": "cabin", "x": 770, "y": 110 },
+  { "id": "26", "label": "Cabin 26", "type": "cabin", "x": 820, "y": 110 },
+  { "id": "27", "label": "Cabin 27", "type": "cabin", "x": 870, "y": 110 },
+  { "id": "28", "label": "Cabin 28", "type": "cabin", "x": 920, "y": 110 },
+
+  { "id": "29", "label": "Cabin 29", "type": "cabin", "x": 420, "y": 170 },
+  { "id": "30", "label": "Cabin 30", "type": "cabin", "x": 480, "y": 170 },
+  { "id": "31", "label": "Cabin 31", "type": "cabin", "x": 540, "y": 170 },
+
+  { "id": "32", "label": "Cabin 32", "type": "cabin", "x": 420, "y": 230 },
+  { "id": "33", "label": "Cabin 33", "type": "cabin", "x": 480, "y": 230 },
+  { "id": "34", "label": "Cabin 34", "type": "cabin", "x": 540, "y": 230 },
+
+  { "id": "35", "label": "Cabin 35", "type": "cabin", "x": 420, "y": 290 },
+  { "id": "36", "label": "Cabin 36", "type": "cabin", "x": 480, "y": 290 },
+  { "id": "37", "label": "Cabin 37", "type": "cabin", "x": 540, "y": 290 },
+
+  { "id": "38", "label": "Cabin 38", "type": "cabin", "x": 420, "y": 350 },
+  { "id": "39", "label": "Cabin 39", "type": "cabin", "x": 480, "y": 350 },
+  { "id": "40", "label": "Cabin 40", "type": "cabin", "x": 540, "y": 350 },
+
+  { "id": "41", "label": "Cabin 41", "type": "cabin", "x": 480, "y": 420 },
+  { "id": "42", "label": "Cabin 42", "type": "cabin", "x": 560, "y": 420 },
+
+  { "id": "43", "label": "Cabin 43", "type": "cabin", "x": 220, "y": 420 },
+  { "id": "44", "label": "Cabin 44", "type": "cabin", "x": 300, "y": 420 },
+
+  { "id": "45", "label": "Cabin 45", "type": "cabin", "x": 800, "y": 420 },
+  { "id": "46", "label": "Cabin 46", "type": "cabin", "x": 880, "y": 420 },
+
+  { "id": "47", "label": "Conference Room (Left)", "type": "room", "x": 300, "y": 500 },
+  { "id": "48", "label": "Conference Room (Right)", "type": "room", "x": 800, "y": 500 },
+
+  { "id": "49", "label": "Server Room", "type": "utility", "x": 480, "y": 460 },
+  { "id": "50", "label": "Pantry", "type": "utility", "x": 540, "y": 460 },
+
+  { "id": "51", "label": "Toilet (Men)", "type": "toilet", "x": 520, "y": 30 },
+  { "id": "52", "label": "Toilet (Women)", "type": "toilet", "x": 680, "y": 30 },
+
+  { "id": "L1", "label": "Lift 1", "type": "lift", "x": 520, "y": 260 },
+  { "id": "L2", "label": "Lift 2", "type": "lift", "x": 600, "y": 260 },
+
+  { "id": "S_LEFT", "label": "Staircase Left", "type": "staircase", "x": 20, "y": 260 },
+  { "id": "S_MAIN", "label": "Main Staircase", "type": "staircase", "x": 520, "y": 120 },
+  { "id": "S_RIGHT", "label": "Staircase Right", "type": "staircase", "x": 980, "y": 260 }
+]

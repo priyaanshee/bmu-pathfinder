@@ -1,0 +1,95 @@
+[
+  {
+    "id": "001",
+    "label": "Multipurpose Hall",
+    "type": "room",
+    "x": 200,
+    "y": 350
+  },
+  {
+    "id": "002",
+    "label": "Green Room",
+    "type": "room",
+    "x": 400,
+    "y": 200
+  },
+  {
+    "id": "003",
+    "label": "Classroom 1",
+    "type": "room",
+    "x": 750,
+    "y": 200
+  },
+  {
+    "id": "004",
+    "label": "Classroom 2",
+    "type": "room",
+    "x": 900,
+    "y": 200
+  },
+  {
+    "id": "005",
+    "label": "Classroom 3",
+    "type": "room",
+    "x": 900,
+    "y": 350
+  },
+  {
+    "id": "006",
+    "label": "Classroom 4",
+    "type": "room",
+    "x": 750,
+    "y": 350
+  },
+  {
+    "id": "007",
+    "label": "Canteen",
+    "type": "room",
+    "x": 750,
+    "y": 500
+  },
+  {
+    "id": "008",
+    "label": "Kitchen",
+    "type": "room",
+    "x": 900,
+    "y": 500
+  },
+
+  {
+    "id": "L1",
+    "label": "Lift 1",
+    "type": "lift",
+    "x": 520,
+    "y": 330
+  },
+  {
+    "id": "L2",
+    "label": "Lift 2",
+    "type": "lift",
+    "x": 600,
+    "y": 330
+  },
+
+  {
+    "id": "S_MAIN",
+    "label": "Main Staircase",
+    "type": "staircase",
+    "x": 300,
+    "y": 120
+  },
+  {
+    "id": "S_LEFT",
+    "label": "Emergency Staircase Left",
+    "type": "emergency_staircase",
+    "x": 80,
+    "y": 150
+  },
+  {
+    "id": "S_RIGHT",
+    "label": "Emergency Staircase Right",
+    "type": "emergency_staircase",
+    "x": 1100,
+    "y": 150
+  }
+]

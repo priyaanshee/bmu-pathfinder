@@ -1,0 +1,18 @@
+[
+  { "id": "201", "label": "Classroom A1", "type": "room", "x": 200, "y": 200 },
+  { "id": "202", "label": "Classroom A2", "type": "room", "x": 400, "y": 200 },
+  { "id": "203", "label": "Lab 1", "type": "room", "x": 650, "y": 200 },
+  { "id": "204", "label": "Toilet", "type": "room", "x": 850, "y": 200 },
+
+  { "id": "205", "label": "Classroom B1", "type": "room", "x": 200, "y": 350 },
+  { "id": "206", "label": "Classroom B2", "type": "room", "x": 400, "y": 350 },
+  { "id": "207", "label": "Classroom B3", "type": "room", "x": 600, "y": 350 },
+  { "id": "208", "label": "Classroom B4", "type": "room", "x": 800, "y": 350 },
+
+  { "id": "L1", "label": "Lift 1", "type": "lift", "x": 500, "y": 280 },
+  { "id": "L2", "label": "Lift 2", "type": "lift", "x": 580, "y": 280 },
+
+  { "id": "S_LEFT", "label": "Emergency Staircase Left", "type": "emergency_staircase", "x": 80, "y": 200 },
+  { "id": "S_MAIN", "label": "Main Staircase", "type": "staircase", "x": 500, "y": 120 },
+  { "id": "S_RIGHT", "label": "Emergency Staircase Right", "type": "emergency_staircase", "x": 1000, "y": 200 }
+]

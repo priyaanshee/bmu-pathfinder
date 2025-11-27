@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import nodes from "../data/nb_first_floor/nodes.json";
 import edges from "../data/nb_first_floor/edges.json";
-import { dijkstra } from "../utils/dijkstra";
+import { dijkstra } from "../utils/dijkstra.js";
 
 export default function Map() {
   const [startId, setStartId] = useState("NB103");
